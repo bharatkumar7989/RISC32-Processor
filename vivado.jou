@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2.1 (64-bit)
+# SW Build 6403652 on Thu Mar 19 19:48:24 GMT 2026
+# IP Build 6403511 on Thu Mar 19 12:41:45 MDT 2026
+# SharedData Build 6403650 on Thu Mar 19 14:02:13 MDT 2026
+# Start of session at: Mon Jun  1 22:42:20 2026
+# Process ID         : 14308
+# Current directory  : C:/Users/USER/Desktop/RISC32_Processor/RISC32_Processor/RISC32_Processor.runs/synth_1
+# Command line       : vivado.exe -log alu32.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source alu32.tcl
+# Log file           : C:/Users/USER/Desktop/RISC32_Processor/RISC32_Processor/RISC32_Processor.runs/synth_1/alu32.vds
+# Journal file       : C:/Users/USER/Desktop/RISC32_Processor/RISC32_Processor/RISC32_Processor.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-NQJ24IH
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 16299
+# Processor Detail   : Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+# CPU Frequency      : 1896 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 8459 MB
+# Swap memory        : 1342 MB
+# Total Virtual      : 9801 MB
+# Available Virtual  : 2280 MB
+#-----------------------------------------------------------
+source alu32.tcl -notrace
